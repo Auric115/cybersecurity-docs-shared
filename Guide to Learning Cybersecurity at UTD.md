@@ -21,47 +21,48 @@ First off, what’s so great about going into cybersecurity?
 - **Demographics.** Although the backgrounds of cybersecurity professionals are diverse (I’ve met lawyers, rock stars, people with PhDs and people with no degrees, and more who are all working in cybersecurity) it is male-dominated like many other STEM-fields. 
 
 # Cybersecurity Academics
+Note: Key Skills for each degree are the skills relevant to cybersecurity, taught by the default required courses. Electives could allow you to specialize further.
 
 ### Cybersecurity-Focused Undergraduate Degrees
 ##### [Computer Science](https://catalog.utdallas.edu/2025/undergraduate/programs/ecs/computer-science) (ECS)
 As the broadest and most technical degree for cybersecurity, it will expose you to many aspects of the domain while preparing you for other career paths in technology. The key to getting the most out of this degree is taking relevant elective courses. In my opinion, a CS student can graduate and know a lot about technology in general, but very little about cybersecurity. Just getting a CS degree is insufficient to demonstrate knowledge of cybersecurity, so a lot must be learned through self-study, clubs, and extracurriculars. 
-	**Key Skills:** Linux/bash, C++, C, Assembly, Databases, Operating Systems, Statistics, Discrete Math & Linear Algebra (relevant for cryptography)
-	**Perk:** By taking the right electives, every CS student can also earn the UG Certificate in Cyber Defense without adding to their overall hours.
-	**Challenge:** CS students often neglect the business/communication aspects of cybersecurity. Being able to understand the business context of technology and communicate technical knowledge to non-technical people is a vital skill. 
+- **Key Skills:** Linux/bash, C++, C, Assembly, Databases, Operating Systems, Statistics, Discrete Math & Linear Algebra (relevant for cryptography)
+- **Perk:** By taking the right electives, every CS student can also earn the UG Certificate in Cyber Defense without adding to their overall hours.
+- **Challenge:** CS students often neglect the business/communication aspects of cybersecurity. Being able to understand the business context of technology and communicate technical knowledge to non-technical people is a vital skill. 
 ##### [Computer Information Systems & Technology](https://catalog.utdallas.edu/2025/undergraduate/programs/jsom/computer-information-systems-and-technology), formerly ITSS (JSOM)
 CISTech is also a broad degree that maintains the option to focus on cybersecurity through the Concentration in Cybersecurity Management. The coursework is generally less rigorous compared to ECS equivalents, which allows motivated students additional time to pursue personal projects, certifications, or internships to deepen their technical expertise and stand out.
-	**Key Skills:** Python, Databases, Network Security, IT Infrastructure, Statistics
-	**Challenge:** As many ITSS courses aren’t really that technical and hands-on, a CISTech student needs to go deeper into technical concepts, beyond what the curriculum covers, and find ways to prove their technical knowledge through tinkering, projects, and extracurriculars to really distinguish themselves.
+- **Key Skills:** Python, Databases, Network Security, IT Infrastructure, Statistics
+- **Challenge:** As many ITSS courses aren’t really that technical and hands-on, a CISTech student needs to go deeper into technical concepts, beyond what the curriculum covers, and find ways to prove their technical knowledge through tinkering, projects, and extracurriculars to really distinguish themselves.
 ##### [Cybersecurity and Risk Management](https://catalog.utdallas.edu/2025/undergraduate/programs/jsom/cybersecurity-and-risk-management) (JSOM)
 An exciting new degree offered for the first time this year, but also narrow in scope. Students unsure about committing to cybersecurity long-term may find broader degrees like CS or CISTech more versatile as they study technology more holistically.
-	**(potential) Key Skills:** Python, Operating Systems, Network Security, Digital Forensics & Incident Response (DFIR), Governance, Risk, & Compliance (GRC), Statistics
-	**Challenge:** With this being a new degree, its unknown how well this will prepare students for their careers. Undoubtable courses will be being tweaked and curriculum edited for years as UTD learns how to best to teach this. I’ve been paying close attention to this degree as it has been released and there are both some promising and concerning aspects to this degree that I’m anxious to see play out. To manage this risk, you certainly should not rely on the degree alone to teach you cybersecurity. Be curious, action-oriented, and find your own communities and sources of knowledge to explore cybersecurity beyond the classroom.
+- **(potential) Key Skills:** Python, Operating Systems, Network Security, Digital Forensics & Incident Response (DFIR), Governance, Risk, & Compliance (GRC), Statistics
+- **Challenge:** With this being a new degree, its unknown how well this will prepare students for their careers. Undoubtable courses will be being tweaked and curriculum edited for years as UTD learns how to best to teach this. I’ve been paying close attention to this degree as it has been released and there are both some promising and concerning aspects to this degree that I’m anxious to see play out. To manage this risk, you certainly should not rely on the degree alone to teach you cybersecurity. Be curious, action-oriented, and find your own communities and sources of knowledge to explore cybersecurity beyond the classroom.
 ### Cybersecurity-Relevant Undergraduate Degrees
 While not centered on cybersecurity as a whole, these programs often intersect with specific cybersecurity domains, providing alternative and potentially valuable pathways into the field. Other degrees not listed may also intersect with cybersecurity in interesting ways; feel free to ask in the comments how your degree might be related. 
 ##### Software Engineering (ECS)
-**Relevant Domains:** Secure Software Development, Application Security
-**Key Skills:** Linux/bash, C++, C, Assembly, Databases, Operating Systems, Software Testing, Technical Project Management, Statistics, Discrete Math & Linear Algebra
+- **Relevant Domains:** Secure Software Development, Application Security
+- **Key Skills:** Linux/bash, C++, C, Assembly, Databases, Operating Systems, Software Testing, Technical Project Management, Statistics, Discrete Math & Linear Algebra
 ##### Computer Engineering or Electrical Engineering (ECS)
 Note EE has a Concentration in Computing Systems.
-**Relevant Domains:** Hardware Security, Embedded Systems Security, IoT Security
-**Key Skills:** C++, C, Assembly, Networks, Operating Systems, Embedded Systems Statistics, Discrete Math & Linear Algebra
+- **Relevant Domains:** Hardware Security, Embedded Systems Security, IoT Security
+- **Key Skills:** C++, C, Assembly, Networks, Operating Systems, Embedded Systems Statistics, Discrete Math & Linear Algebra
 ##### Data Science (ECS & NSM)
-**Relevant Domains:** AI for Cybersecurity, Cybersecurity for AI, Security Analytics, Anomaly Detection, Risk Modeling, Threat Intelligence
-**Key Skills:** Python, C++, Databases, Statistics, Discrete Math & Linear Algebra
+- **Relevant Domains:** AI for Cybersecurity, Cybersecurity for AI, Security Analytics, Anomaly Detection, Risk Modeling, Threat Intelligence
+- **Key Skills:** Python, C++, Databases, Statistics, Discrete Math & Linear Algebra
 ##### Business Analytics and Artificial Intelligence (JSOM)
 This assumes the IT Concentration to specialize more in cybersecurity.
-**Relevant Domains:** Security Analytics, Anomaly Detection, Risk Modeling, Threat Intelligence
-**Key Skills:** Python, Statistics, Databases, Network Security, IT Architecture, Cloud, GRC
+- **Relevant Domains:** Security Analytics, Anomaly Detection, Risk Modeling, Threat Intelligence
+- **Key Skills:** Python, Statistics, Databases, Network Security, IT Architecture, Cloud, GRC
 ##### Mathematics (NSM)
-**Relevant Domains:** Cryptography, Formal Verification
-**Key Skills:** Python, Statistics, Discrete Math, Linear Algebra, Abstract Algebra
+- **Relevant Domains:** Cryptography, Formal Verification
+- **Key Skills:** Python, Statistics, Discrete Math, Linear Algebra, Abstract Algebra
 ##### Systems Engineering (ECS)
 Note the secondary field requirement for the degree can be used to focus on computer science/cybersecurity.
-**Relevant Domains:** Risk Management, Secure System Architecture, Cyber-Physical Security
-**Key Skills:** Networks, Technical Project Management, Statistics, Discrete Math & Linear Algebra
+- **Relevant Domains:** Risk Management, Secure System Architecture, Cyber-Physical Security
+- **Key Skills:** Networks, Technical Project Management, Statistics, Discrete Math & Linear Algebra
 ##### Cognitive Science (BBS)
-**Relevant Domains:** Social Engineering 
-**Key Skills:** C++, Statistics, Psychology, Discrete Math
+- **Relevant Domains:** Social Engineering 
+- **Key Skills:** C++, Statistics, Psychology, Discrete Math
 
 ### Cybersecurity Minors and Certificates
 Its very important to note that upper division (3000/4000) courses that you use to satisfy degree requirements for your major cannot count towards your minor. So if both your major and a minor require CS 4347, for example, you’ll only be able to count that towards your major and its unlikely you’ll be able to earn that minor.
