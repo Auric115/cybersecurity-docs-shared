@@ -20,7 +20,10 @@ First off, what’s so great about going into cybersecurity?
 - **Certification Costs.** Well-respected certs are typically expensive which is a problem for us broke college kids. Ideally, whoever you work for will support getting you certified and help cover some or all of the costs, but it can be hard to get these as an individual. I’ll be sure to point you towards any resources UTD has for this.
 - **Demographics.** Although the backgrounds of cybersecurity professionals are diverse (I’ve met lawyers, rock stars, people with PhDs and people with no degrees, and more who are all working in cybersecurity) it is male-dominated like many other STEM-fields. 
 
-# Cybersecurity Academics
+# Cybersecurity Undergraduates
+I’m a undergraduate computer science, minoring in business analytics. My experiences are largely limited to those programs, but I’ve tried to solicit feedback from other students in different programs to make this as comprehensive as possible. I hope people will share their own experiences in the comments for new students.
+
+### Cybersecurity Degrees
 Note: Key Skills for each degree are the skills relevant to cybersecurity, taught by the default required courses. Electives could allow you to specialize further.
 
 ### Cybersecurity-Focused Undergraduate Degrees
@@ -85,26 +88,123 @@ Criminology, Political Science, Public Affairs, Public Policy or Science, Techno
 
 
 ### Cybersecurity Courses
+This is not necessarily an exhaustive list, but I tried to get as many as I could.
 ##### ECS
+This largely is following the CS degree plan plus several electives you may find interesting. 
+
+**CS 1436, CS 1337, CS 2336/2337** (“Programming courses”) While programming isn’t absolutely required for all jobs in cybersecurity, it always helps to be able to read code, script to automate processes, or even engineer security software and tools. Play close attention to these courses and always ask yourself about the vulnerabilities or potential vulnerabilities that come from the programming language. 
+
+If you want a Fun project: code a game in C++ or Java, then look into memory scans and tools like Cheat Engine and see if you can hack your own game to set the high score to whatever you want.
+
+**CS 2340** (Computer Architecture) Being able to read assembly is useful for reverse engineering binary. This class typically teaches MIPS assembly, rather than x86. But the skills carry over. 
+
+**ECS 2390** (Professional and Technical Communications) If you work well on teams, have given presentations and done well in interviews and you have a solid resume, this class may not provide a lot of value. Communication skills in general are hard to learn in a classroom, but they are absolutely essential in cybersecurity. Communicating with non-technical people about technical problems, solutions and risk will be a lot of your job. Don’t slack on the people skills.
+
+**CS 3162** (Professional Responsibility) This course will likely go into topics like cybercrime and can help introduce you to the history of cybersecurity and hacking.
+
+**CS 3341** (Probability & Statistics in CS & SE) A fundamental understanding of statistics and how they’re calculated is useful for cybersecurity. You may not need to go super deep into this subject, but make sure you have strong analytical skills and its nice if you know how to setup visualizations.
+
+**CS 3377** (Systems Programming) One of the most important classes as it introduces you to Linux environments. This is a essential skill as for a lot of cybersecurity careers you live in the command line. A fun way to learn this stuff is to pair it with doing CTF (capture-the-flag) challenges. You’ll also do some more programming. 
+
+If you’re serious about cybersecurity, I wouldn’t wait to take this course to learn Linux. Set up a VM (Virtual Machine) or WSL (Windows Subsystem for Linux) or if you’re on Mac just open Terminal, and start getting comfortable with commands. I would recommend being able to navigate the CLI (command line interface) as easily as you can the GUI (graphical user interface).
+
+**CS 4337** (Programming Language Paradigms) I have described this class as the “waste paper bin of computer science”. Basically, it felt like they just dumped a ton of concepts that you should know all together in class, even though they didn’t necessarily relate to each other. Some of those concepts happen to be security-related like language-based security, control flow integrity, web scripting security, return oriented programming, fuzzing and others. And you will do some more programming in languages you probably haven’t learned, but are very secure.
+
+**CS 4347** (Database Systems) Databases are a key target for hackers, so learn as much as you can about them. Some professors take the time to also teach a hacking technique called SQL Injection in this course. I would recommend taking them and learning more about it on your own time. This course may also be your first introduction to web development, which is a great skill to have. You can develop a personal website for building your cybersecurity reputation, but also understand how web applications work and how they can be exploited.
+
+**CS 4348** (Operating Systems) Operating systems are incredibly important to cybersecurity. This course is purely theoretical, so be sure to get hands-on experience with things like containers and VMs. 
+
+**CS 4371** (Big Data) Like databases, but bigger. This course goes into web and big data security.
+
+**CS 4389** (Data & App Security) Now we’re getting into the pure cybersecurity courses. Everything so far has been Computer Science courses that may touch on security topics, but Data & App Sec is a broad introduction to Cybersecurity. Just be sure to get hands on with any of the topics you learn: whether that’s a quick programming project, a CTF, deploying infrastructure, whatever. 
+
+**CS 4390** (Computer Networks) Networking is arguably the most important topic in cybersecurity. I would take this course as soon as you can as it is a prerequisite to many other security-oriented courses. 
+
+**CS 4393** (Computer and Network Security) Now you have learned networking, start figuring out how to break it. 
+
+**CS 4396** (Networking Laboratory) Takes the networking concepts you learned and makes them hands-on and practical. 
+
+Note: If you haven’t realized, hands-on and practical are the magic words to supercharging your cybersecurity learning. Don’t just think about this stuff, do it. Break it. That’s how the best have learned. That’s how the bad guys have learned.
+
+**CS 4398** (Digital Forensics) Understand how security events are recorded. 
+
+**CS 4459** (Cyber Attack and Defense Laboratory) No exams, no homeworks. Just 8 CTF-style challenges. Your grade is wholly dependent on your ability to hack these challenges and retrieve the flags. I have heard it typically takes 20-30 hours per week on these challenges so this is an incredibly challenging and time consuming course, but goes deep into what it actually takes to be a hacker. Make sure you know x86 Assembly if you’re going to take this course.
 
 ##### JSOM
+JSOM is introducing the fleet of CYBR courses to support the new degree. No one has taken these (unless they were equivalent courses from other programs) so my feedback won’t be able to go beyond the catalog so I’ll just give you that:
+
+https://catalog.utdallas.edu/2025/undergraduate/courses/CYBR
+
+**ITSS 3300** (IT for business) A high level introduction to security topics and how tech fits into the enterprise as a whole.
+
+**ITSS 3311, 3312** (*programming courses*) Similar to the CS versions, programming isn’t absolutely required for all jobs in cybersecurity, but it always helps to be able to read code, script to automate processes, or even engineer security software and tools. Unlike CS, you learn Python, the language of choice for many cybersecurity professionals. 
+
+**ITSS 3320** (Operating Systems and Networking) OS and Networks are two of the biggest concepts in cybersecurity. You should really build a strong base in these topics.
+
+**ITSS 3390** (Web Design and Development for Business Applications) Web development is key for cybersecurity. Understand how to build and break web apps. 
+
+**ITSS 4300, 4301** (Databases) This covers more content that CS 4347, but at a higher level. This means you might actually get to more security topics. Just be sure to get hands on with databases, SQL Injection, and data security. I would recommend doing a project like building a CRUD website connected to a database. ITSS 4300 seems more security-oriented than ITSS 4301.
+
+I don’t have much feedback for these courses, but I’ll list them just so you know what’s out there. Maybe some people who have taken these course can give their thoughts on these in the comments. My general advice remains the same: no matter what the course requires, get hands-on, practical experience with every topic or technology discussed if you can.
+**ITSS 4355** (Data Governance)
+**ITSS 4357** (Digital Forensics and Incident Management)
+**ITSS 4358** (Applied Cybersecurity Analytics and AI)
+**ITSS 4359** (Preparing for Cybersecurity Threats)
+**ITSS 4360** (Network and Information Security)
+**ITSS 4361** (Information Technology Cybersecurity)
+**ITSS 4362** (Cybersecurity Governance)
+**ITSS 4370** (Information Technology Infrastructure)
+**ITSS 4371** (Cloud Computing with AWS)
+**ITSS 4380** (Advanced Database Management)
 
 ##### Other
-### Cybersecurity as a Graduate Student
+Again not much experience here, but some courses oriented towards cyber policy. Cybersecurity has close ties to law and politics because they intersect around topics like cybercrime, compliance, and privacy.
+
+**PPOL 4303** (The Internet and Public Policy) 
+**PPOL 4325** (Digital Economics and the Law)
+**PPOL 4326** (Cyber Security Policy)
+**PPOL 4327** (Violence in Cyber Space)
+**PPOL 4328** (Governance and Auditing for Cyber Security)
+**PPOL 4329** (Cybersecurity Law and Ethics)
+**PPOL 4330** (Open-Source Intelligence for Cyber Security)
+
+### Takeaways
+Cybersecurity is so broad and so deep, you won’t learn it all in 4 years. In my opinion, I don’t think cybersecurity is a field that we have figured out how to teach in the classroom. That means there is incredible opportunity for us because society has not yet found an efficient way to produce cybersecurity professionals, but also means you have a lot of work to do. I’ve seen some good things with the new cybersecurity degree (not a home run in my book, but leaning in the right direction), but I wouldn’t rely on any degree to prove I can do a cybersecurity job. You have to build that proof beyond the classroom: CTF writeups and competitions, cyber defense competitions, club participation & leadership, bug bounties, research/research papers, white papers, content creation, programming projects like open-source security tools or deploying infrastructure, certifications, hosting or attending events, etc. 
+
+Get involved. Break stuff. Learn.
+# Cybersecurity Graduates and Faculty
+
+### Cybersecurity Focused Graduate Degrees
 - Computer Science - cybersecurity track (ECS)
 - Cyber Security, Technology, and Policy (ECS & EPPS)
-# Cybersecurity Faculty?
+- ITM - cybersecurity concentration (JSOM)
+- Systems Engineering - cybersecurity concentration (ECS & JSOM)
+### Cybersecurity Graduate Courses
+
+### Cybersecurity Focused Faculty
+##### ECS
+##### JSOM
+##### Other
 
 # Cybersecurity Extracurriculars
 
 Computer Security Group ([CSG](https://csg.utdallas.edu/aboutcsg/)). The oldest and largest cybersecurity club on campus. They do presentations (from students, industry professionals, or other speakers) every Wednesday at 7. Free pizza. They also hold capture-the-flag (CTF) competitions and organize cybersecurity conferences and other events.
 
-Competitive CTF Team. CSG hosts UTD’s official competitive CTF team, currently ranked 17th in the US. A CTF competition involves using hacking techniques to break into systems setup as targets and score points by retrieving a flag (a secret piece of text). These are great for getting hands-on practice, and joining the competitive team represents join an incredibly elite group of hackers.
+Competitive CTF Team. ([UTDCSG](https://ctftime.org/team/333)) CSG hosts UTD’s official competitive CTF team, currently a top-ranked team. A CTF competition involves using hacking techniques to break into systems setup as targets and score points by retrieving a flag (a secret piece of text). These are great for getting hands-on practice, and joining the competitive team represents join an incredibly elite group of hackers.
 
-Cyber Defense and Response Unit (CDRU). We (I’m an officer) do hands-on workshops every Thursday at 7 PM on Digital Forensics, Incident Response, Threat Hunting and similar. We focus on defending systems, rather than attacking, and the club was founded by a CrowdStrike employee/UTD masters student to bridge the gap between classroom learning and careers. I became an officer because this is one of the most welcoming and interactive clubs I’ve encountered. Hands-on learning, but beginner friendly. 
+Cyber Defense and Response Unit ([CDRU](https://www.cdru.net/)). CDRU does hands-on workshops every Thursday at 7 PM on Digital Forensics, Incident Response, Threat Hunting and similar. We focus on defending systems, rather than attacking, and the club was founded by a CrowdStrike employee/UTD masters student to bridge the gap between classroom learning and careers. I became an officer because this is one of the most welcoming and interactive clubs I’ve encountered. Hands-on learning, but beginner friendly. 
 
 National Collegiate Cyber Defense Competition Team ([CCDC](https://www.nationalccdc.org/)). CDRU host’s UTD’s competitive cyber defense team, which made it to the Southwest Regional Competition last year. A cyber defense competition involves the team being handed IT infrastructure that they have to get up and running to score points, while a team of professional penetration testers (hackers) have been hired to break in and take them down.
 
+Women in Cybersecurity 
+
+UTD Student Subchapter of the North Texas Chapter of the Information Systems Security Association ([UTD NTX ISSA](https://www.utd.ntxissa.org/)) ISSA in an international non-profit organization of security professionals and UTD has its very own subchapter which hosts educational events and offers discounted ISSA membership. They’re backed by the resources and community of ISSA which allows them to host talks from industry professionals. Although they cover all of InfoSec, they often are the experts on cyber policy, compliance, and governance.
+
+Cybersecurity Club (CSC) JSOM’s organization focusing on professional/career development and networking (the people networking, not computer networking). Historically, they’ve invited industry contacts to give presentations about their work.
+
+Association for Information Systems Student Chapter at UTD. (UTD AIS). UTD AIS has promoted excellence in the study and practice of Information Systems since 2014 and provided members with professional & technical workshops, hosted industry speakers, and created spaces to network within the JSOM’s Undergraduate ITS program. They’re focused on IT systems and tech infrastructure as a whole, rather than just cybersecurity. Note UTD AIS is not to be confused with AIS, the Artificial Intelligence Society.
+
+Capture the Comet (CTC). A new club for CTF enthusiasts. 
 # Cybersecurity in DFW/Texas
 
 # General Cybersecurity Advice
